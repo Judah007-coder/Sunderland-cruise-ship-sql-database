@@ -1,6 +1,10 @@
 # Sunderland Cruise Excursions Database
 
+<img width="1536" height="1024" alt="Designer (1)" src="https://github.com/user-attachments/assets/5faeda7b-b40b-491c-94f4-629ae1816c82" />
+
 A relational database built in SQL for a fictional cruise company that sells optional port excursions to passengers. Coursework for IY455 Information Systems Analysis and Design, Nottingham Trent International College (June 2026).
+
+## IMPORTANT NOTE IS THAT IT'S A FICTIONAL COMPANY
 
 # The report
 [Sunderland_cruise_ship_report.pdf](https://github.com/user-attachments/files/34537018/Sunderland_cruise_ship_report.pdf)
