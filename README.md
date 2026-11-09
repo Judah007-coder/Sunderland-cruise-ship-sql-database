@@ -21,13 +21,8 @@ Six queries, with screenshots of their output
 
 The sample data is fictional and was generated with an AI assistant (Claude) from my table definitions. The design, schema and queries are my own work.
 
-Files
-01_schema.sql creates the database and tables
-02_sample_data.sql inserts the sample data
-03_queries.sql contains the queries
-Sunderland_Cruise_Database_Report.pdf is the full report
 
-To run it, open the files in a SQL client (I used DataGrip) and run them in that order, since later tables depend on earlier ones.
+To run it, open the file in a SQL client (I used DataGrip) and run them in that order, since later tables depend on earlier ones.
 
 # What I learnt
 Normalisation is about deciding what each piece of data really depends on. Writing my assumptions down made my design choices easier to justify.
